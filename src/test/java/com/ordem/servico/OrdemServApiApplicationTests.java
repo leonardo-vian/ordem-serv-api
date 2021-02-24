@@ -8,6 +8,7 @@ class OrdemServApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+		"Teste"
 	}
 
 }
